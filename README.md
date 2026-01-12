@@ -1,16 +1,4 @@
-Good choice. **README is the first filter**.
-A weak README kills even strong projects. We’ll make yours **recruiter-proof and interview-ready**.
 
-Below is a **complete, copy-paste READY README**.
-Do **not** water it down. Do **not** shorten it. This level of detail is intentional.
-
----
-
-# 📘 README.md (FINAL VERSION)
-
-Copy everything below into `README.md` in your repo.
-
----
 
 # Production-Grade CI/CD Pipeline for a Containerized FastAPI Application on Kubernetes
 
